@@ -6,7 +6,9 @@ url: "https://malkaviel.github.io" # the base hostname & protocol for your site 
 
 # User settings
 username: Maxime Capuano
-user_description: I am a french computer science student. My studies are focused on 3D programming and simulations, from the low-level libraries like OpenGL or Vulkan, to the high-level game engines like Unity or Unreal Engine. Various interships and apprenticeships lead me to learn about web development
+user_description: I am a french Web and 3D software programmer.
+  My studies and personal projects are centered around the development of game engines and 3D graphics software.
+  My professional experience is about the development of website backends and internal web tools.
 user_title: Web and 3D software developer
 email: maxime.capuano@tutanota.com
 twitter_username:
