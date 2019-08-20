@@ -6,10 +6,11 @@ url: "https://malkaviel.github.io" # the base hostname & protocol for your site 
 
 # User settings
 username: Maxime Capuano
-user_description: I am a french Web and 3D software programmer.
-  My studies and personal projects are centered around the development of game engines and 3D graphics software.
-  My professional experience is about the development of website backends and internal web tools.
-user_title: Web and 3D software developer
+user_description: I am a french web developer.
+  Most of my experience lies in the back-end side of web development, be it in PHP, C# or Elixir, with some experience with the VueJS
+  framework for the front-end side.
+  I also study game engines and interesting computer science subjects, mostly related to programming languages, on my spare time.
+user_title: Web developer
 email: maxime.capuano@tutanota.com
 twitter_username:
 github_username: Malkaviel
