@@ -6,10 +6,9 @@ url: "https://malkaviel.github.io" # the base hostname & protocol for your site 
 
 # User settings
 username: Maxime Capuano
-user_description: I am a french web developer.
-  Most of my experience lies in the back-end side of web development, be it in PHP, C# or Elixir, with some experience with the ReactJS
+user_description: I am a french fullstack web developer.
+  Most of my experience lies in the back-end side of web development, be it in PHP, C# or Java, with some experience with the Angular
   framework for the front-end side.
-  I also study game engines and interesting computer science subjects, mostly related to programming languages, on my spare time.
 user_title: Web developer
 email: maxime.capuano@tutanota.com
 twitter_username:
